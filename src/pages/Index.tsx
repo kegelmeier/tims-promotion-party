@@ -15,6 +15,11 @@ const Index = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
+          <img
+            src="/lovable-uploads/ced73d92-5ca3-4aa4-9a1e-17f99b844519.png"
+            alt="FINN Logo"
+            className="h-12 mx-auto mb-8"
+          />
           <span className="inline-block bg-finn-accent/10 text-finn-accent px-4 py-1.5 rounded-full text-sm font-medium mb-4">
             Special Announcement
           </span>

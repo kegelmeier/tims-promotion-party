@@ -27,7 +27,7 @@ export default {
         finn: {
           primary: "#1A1F2C",
           secondary: "#8E9196",
-          accent: "#9b87f5",
+          accent: "rgb(0,134,234)",
         },
         primary: {
           DEFAULT: "hsl(var(--primary))",
